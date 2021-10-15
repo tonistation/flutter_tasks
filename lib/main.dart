@@ -19,9 +19,9 @@ class MyApp extends StatelessWidget {
       theme: ThemeData( 
         primarySwatch: Colors.blue,
       ), 
-      // home: const HomeTempTarea() // TAREA 1 Layout simple
-     // home: const Page1(),
-      home: const Page2(),
+      //home: const HomeTempTarea() // TAREA 1 Layout simple
+      //home: const Page1(), // TAREA 2 pagina 1
+       home: const Page2(), // TAREA 2 pagina 2
     );
   }
 }
